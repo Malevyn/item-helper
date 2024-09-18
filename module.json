@@ -1,0 +1,17 @@
+{
+    "disableAutoUpdate": false,
+    "name": "item-helper",
+    "author": "Ace",
+    "description": "Utility for retrieving item IDs.",
+    "options": {
+        "niceName": "Item Helper ",
+        "guiName": "Item Helper",
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsVersion": 1,
+        "reloadable": true
+    },
+    "supportUrl": "https://github.com/Malevyn/item-helper/issues",
+    "servers": ["https://raw.githubusercontent.com/Malevyn/item-helper/master/"],
+    "version": "1.0.0"
+}

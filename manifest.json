@@ -1,0 +1,15 @@
+{
+    "files": {
+        "README.md": "f8c46560f271cf1bf16935c7f1bfb52d7d98ceef7d753ff2b3822226e37a1b64",
+        "config.json": "32589c7c0138d122d8cfa9bc6fa0e3f00485999facb2198d62834a775899e495",
+        "index.js": "a3e5ea78b59dd12cf90a20ebf2e965457e6884be9f7c4b0f0bf8e5b8de43e634",
+        "module.json": "f6f04bb459eab473468e297f6dea8292eac526c4adb3fef05144ab3283ab194b",
+        "settings_migrator.js": "e6278847307b4777510c3a62fd1ab280faf4db4add6715ec2b5d437cdfbb1173"
+    },
+    "defs": {
+        "S_CUSTOM_STYLE_SYSTEM_MESSAGE": 1,
+        "S_PLAY_SOUND": 1,
+        "S_REPLY_NONDB_ITEM_INFO": "*",
+        "S_SHOW_ITEM_TOOLTIP": "*"
+    }
+}

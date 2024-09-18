@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "data": {
+        "color": {
+            "white": "#FFFFFF",
+            "blue": "#2A84D2",
+            "red": "#F81118",
+            "yellow": "#FFCC00",
+            "green": "#80e71c"
+        },
+        "text": {
+            "type": "chat",
+            "style": 51
+        },
+        "sound": {
+            "enabled": true,
+            "id": 3021
+        }
+    }
+}
